@@ -1,2 +1,2 @@
 # JavaScript-Coding-Practice
-In this project all the JavaScript coding practice are going to be reposit.
+In this project all them are JavaScript coding practice challenges.
