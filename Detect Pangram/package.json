@@ -1,0 +1,11 @@
+{
+  "name": "detect-pangram",
+  "version": "1.0.0",
+  "description": "This is part of my coding practice in JS called Detect Pangram",
+  "main": "detectPangram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haile Tesfu",
+  "license": "ISC"
+}
